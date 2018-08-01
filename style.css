@@ -74,7 +74,7 @@ nav ul li a:hover
 {
 	min-height: 90vh;
 	background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)),
-	url(b.jpg);
+	url(home-img.jpg);
 	background-attachment: fixed;
 	background-position: center;
 	background-size: cover;
